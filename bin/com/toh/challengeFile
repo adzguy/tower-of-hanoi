@@ -1,0 +1,24 @@
+Practical Test
+Subject: Tower of Hanoi
+Programming Language: Java
+Editor: Any 
+ 
+Problem Description:
+The candidate has to resolve "Tower of Hanoi" problem.
+When a program runs, it should ask for  "Number of Towers" (at least 5 max 10) & "Number of Disks" (max 40)
+The program should show each step in output. 
+ 
+Evaluation Criteria:
+OOPs concept (10%)
+Coding standard (10%)
+Problem-solving skill (80%)
+
+The full requirements:
+Must correctly solve the required motion without violating stacking rules (e.g. on each peg, no bigger disk sits on any smaller disk).
+5 - 10 towers / pegs
+3 - 40 disks
+
+Not required but preferred:
+Good software engineering practices (e.g. code formatting, variable names, comments / JavaDoc, unit tests)
+Efficiency of moves (no unneeded moves)
+Efficiency of code (time and space complexity)  At least be able to estimate general space/time complexity.
